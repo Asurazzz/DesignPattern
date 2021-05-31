@@ -1,7 +1,7 @@
-package com.ymj.pattern.factory.f01_simplefactory;
+package com.ymj.pattern.factory01.f01_simplefactory;
 
-import com.ymj.pattern.factory.ICourse;
-import com.ymj.pattern.factory.JavaCourse;
+import com.ymj.pattern.factory01.ICourse;
+import com.ymj.pattern.factory01.JavaCourse;
 
 public class CourseFactory {
 

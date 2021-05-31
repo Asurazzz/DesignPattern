@@ -1,7 +1,7 @@
-package com.ymj.pattern.factory.f02_factorymethod;
+package com.ymj.pattern.factory01.f02_factorymethod;
 
-import com.ymj.pattern.factory.ICourse;
-import com.ymj.pattern.factory.PythonCourse;
+import com.ymj.pattern.factory01.ICourse;
+import com.ymj.pattern.factory01.PythonCourse;
 
 public class PythonCourseFactory implements ICourseFactory{
     @Override

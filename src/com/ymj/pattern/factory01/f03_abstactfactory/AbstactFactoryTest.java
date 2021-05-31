@@ -1,4 +1,4 @@
-package com.ymj.pattern.factory.f03_abstactfactory;
+package com.ymj.pattern.factory01.f03_abstactfactory;
 
 
 /**

@@ -1,7 +1,7 @@
-package com.ymj.pattern.factory.f03_abstactfactory;
+package com.ymj.pattern.factory01.f03_abstactfactory;
 
-import com.ymj.pattern.factory.ICourse;
-import com.ymj.pattern.factory.JavaCourse;
+import com.ymj.pattern.factory01.ICourse;
+import com.ymj.pattern.factory01.JavaCourse;
 
 public class JavaCourseFactory implements ICourseFactory{
     @Override

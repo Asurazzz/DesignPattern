@@ -1,6 +1,6 @@
-package com.ymj.pattern.factory.f02_factorymethod;
+package com.ymj.pattern.factory01.f02_factorymethod;
 
-import com.ymj.pattern.factory.ICourse;
+import com.ymj.pattern.factory01.ICourse;
 
 /**
  * 工厂方法模式适用场景
