@@ -1,4 +1,4 @@
-package com.ymj.pattern.factory01;
+package com.ymj.pattern.code01_factory;
 
 public class JavaCourse implements ICourse {
     @Override

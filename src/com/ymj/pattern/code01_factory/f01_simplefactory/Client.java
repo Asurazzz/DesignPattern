@@ -1,4 +1,4 @@
-package com.ymj.pattern.factory02.f01_simplefactory;
+package com.ymj.pattern.code01_factory.f01_simplefactory;
 
 public class Client {
     public static void main(String[] args) {

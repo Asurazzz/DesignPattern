@@ -1,7 +1,7 @@
-package com.ymj.pattern.factory01.f01_simplefactory;
+package com.ymj.pattern.code01_factory.factory01.f01_simplefactory;
 
-import com.ymj.pattern.factory01.ICourse;
-import com.ymj.pattern.factory01.JavaCourse;
+import com.ymj.pattern.code01_factory.ICourse;
+import com.ymj.pattern.code01_factory.JavaCourse;
 
 public class SimpleFactoryTest {
     public static void main(String[] args) {
