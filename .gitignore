@@ -5,6 +5,7 @@ bin/
 !**/src/main/**/target/
 !**/src/test/**/target/
 logs/
+bin/com/atguigu
 
 ### IntelliJ IDEA ###
 .idea
