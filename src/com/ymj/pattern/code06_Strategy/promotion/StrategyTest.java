@@ -1,4 +1,4 @@
-package com.ymj.pattern.code06_Strategy;
+package com.ymj.pattern.code06_Strategy.promotion;
 
 /**
  * @Classname StrategyTest
