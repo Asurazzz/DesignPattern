@@ -2,13 +2,13 @@ package com.ymj.pattern.code06_Strategy;
 
 /**
  * @Classname EmptyStrategy
- * @Description 无促销活动
+ * @Description 鏃犱績閿�娲诲姩
  * @Date 2021/6/11 15:48
  * @Created by yemingjie
  */
 public class EmptyStrategy implements PromotionStrategy{
     @Override
     public void doPromotion() {
-        System.out.println("无促销活动");
+        System.out.println("鏃犱績閿�娲诲姩");
     }
 }

@@ -2,13 +2,13 @@ package com.ymj.pattern.code06_Strategy;
 
 /**
  * @Classname GroupbuyStrategy
- * @Description Æ´ÍÅÓÅ»İ
+ * @Description æ‹¼å›¢ä¼˜æƒ 
  * @Date 2021/6/11 15:47
  * @Created by yemingjie
  */
 public class GroupbuyStrategy implements PromotionStrategy{
     @Override
     public void doPromotion() {
-        System.out.println("Æ´ÍÅ£¬Âú 20 ÈË³ÉÍÅ£¬È«ÍÅÏíÊÜÍÅ¹º¼Û");
+        System.out.println("æ‹¼å›¢ï¼Œæ»¡ 20 äººæˆå›¢ï¼Œå…¨å›¢äº«å—å›¢è´­ä»·");
     }
 }

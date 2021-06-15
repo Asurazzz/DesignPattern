@@ -2,13 +2,13 @@ package com.ymj.pattern.code06_Strategy;
 
 /**
  * @Classname CashbackStrategy
- * @Description 返现活动
+ * @Description 杩旂幇娲诲姩
  * @Date 2021/6/11 14:46
  * @Created by yemingjie
  */
 public class CashbackStrategy implements PromotionStrategy{
     @Override
     public void doPromotion() {
-        System.out.println("返现促销,返回的金额转到支付宝账号");
+        System.out.println("杩旂幇淇冮攢,杩斿洖鐨勯噾棰濊浆鍒版敮浠樺疂璐﹀彿");
     }
 }

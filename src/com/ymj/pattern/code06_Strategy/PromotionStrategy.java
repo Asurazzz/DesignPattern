@@ -3,8 +3,8 @@ package com.ymj.pattern.code06_Strategy;
 /**
  * @Classname PromotionStrategy
  * @Description
- * ÁìÈ¡ÓÅ»İÈ¯µÖ¿Û¡¢·µÏÖ´ÙÏú¡¢Æ´ÍÅÓÅ»İ¡£
- * ÏÂÃæÎÒÃÇÓÃ´úÂëÀ´Ä£Äâ£¬Ê×ÏÈÎÒÃÇ´´½¨Ò» ¸ö´ÙÏú²ßÂÔµÄ³éÏó PromotionStrategy
+ * é¢†å–ä¼˜æƒ åˆ¸æŠµæ‰£ã€è¿”ç°ä¿ƒé”€ã€æ‹¼å›¢ä¼˜æƒ ã€‚
+ * ä¸‹é¢æˆ‘ä»¬ç”¨ä»£ç æ¥æ¨¡æ‹Ÿï¼Œé¦–å…ˆæˆ‘ä»¬åˆ›å»ºä¸€ ä¸ªä¿ƒé”€ç­–ç•¥çš„æŠ½è±¡ PromotionStrategy
  * @Date 2021/6/11 14:37
  * @Created by yemingjie
  */
